@@ -1,1 +1,1 @@
-# comercio_eletronico_banco_de_dados
+# Banco de dados de um comércio eletrônico
