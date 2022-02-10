@@ -9,6 +9,18 @@ INSERT INTO produto VALUES
     (null, 'Mesa De Air Game ', 'Mesa De Air Game - Aero Hockey - H03', 1590, 1, "", 1),
     (null, 'FIFA 22 - PS4', 'FIFA 22 - PS4', 224.91, 0, "", 1),
     (null, 'Videogame Playstation 3', 'Videogame Playstation 3 Super Slim', 1357.99, 45, "", 1);
+
+INSERT INTO produto VALUES
+	(null, 'folklore', 'Taylor Swift (Artista)', 59.90, 13, "/imagens", 3),
+    (null, 'WOMEN IN MUSIC PT. III', 'HAIM (Artista)', 49.90, 10, "/imagens", 3),
+    (null, 'Chromatica', 'Lady Gaga (Artista) ', 39, 19, "/imagens", 3),
+    (null, 'Blue Weekend', 'Wolf Alice (Artista)', 39.90, 16, "/imagens", 3),
+    (null, 'After Laughter', 'Paramore (Artista) ', 30.90, 14, "/imagens", 3),
+    (null, 'Recursão', 'Blake Crouch', 69.90, 27, "/imagens", 4),
+    (null, 'Malibu renasce', 'Taylor Jenkins Reid', 29.90, 50, "/imagens", 4),
+    (null, 'Os sete maridos de Evelyn Hugo', 'Taylor Jenkins Reid', 28.90, 41, "/imagens", 4),
+    (null, 'Atlas de nuvens', 'David Mitchell', 39.90, 30, "/imagens", 4),
+    (null, 'E não sobrou nenhum', 'Agatha Christie', 49.90, 45, "/imagens", 4);
     
 -- uma coluna da tabela produto
 alter table produto drop column produtocol;
