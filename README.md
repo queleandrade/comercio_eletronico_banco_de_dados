@@ -148,6 +148,28 @@ CONSTRAINT item_pedido FOREIGN KEY
 
 );
 
+## 📚 Questões do desafio
+
+1. Este exercício é livre para você inserir dados nas tabelas. Adicione vários dados em todas as tabelas. Crie vários clientes, com vários endereços. Insira muitos produtos em vários departamentos. Crie pedidos em várias datas com meses diferentes (serão necessários para os próximos exercícios).
+
+2. Quantos clientes estão cadastrados na sua base?
+
+3. Qual o produto mais caro?
+
+4. Qual o produto mais barato?
+
+5. Mostre todos os produtos com seus respectivos departamentos.
+
+6. Quantos produtos há em cada departamento? Exiba o nome do departamento e a quantidade de produtos que há em cada um. (pense em SUM e GROUP BY)
+
+7. Mostre os dados dos pedidos, incluindo nomes dos clientes e nomes dos produtos que foram vendidos.
+
+8. Mostre quantos pedidos foram feitos por mês no ano de 2022 (caso você tenha registros neste ano, senão escolha um ano que você tenha cadastrado - Novamente pense em COUNT e GROUP BY).
+
+9. Mostre quanto foi faturado por mês (leve em conta o valor total de cada pedido - novamente pense em GROUP BY e SUM).
+
+10. Mostre o valor total do estoque por departamento.
+
 ## 📫 Contribuindo para Comércio eletrônico usando MySQL
 <!---Se o seu README for longo ou se você tiver algum processo ou etapas específicas que deseja que os contribuidores sigam, considere a criação de um arquivo CONTRIBUTING.md separado--->
 Para contribuir com <nome_do_projeto>, siga estas etapas:
@@ -157,3 +179,37 @@ Para contribuir com <nome_do_projeto>, siga estas etapas:
 3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
 4. Envie para o branch original: `git push origin <nome_do_projeto> / <local>`
 5. Crie a solicitação de pull.
+
+## 🤝 Colaboradores
+
+Pessoas que contribuíram para este projeto:
+
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/leomonadas">
+        <img src="https://avatars.githubusercontent.com/u/77860170?v=4" width="100px;" alt="Foto do membro Leonardo"/><br>
+        <sub>
+          <b>Leonardo Alves</b>
+        </sub>
+      </a>
+    </td>
+   <td align="center">
+      <a href="https://github.com/queleandrade">
+        <img src="https://avatars.githubusercontent.com/u/75625651?v=4" width="100px;" alt="Foto da membro Quele"/><br>
+        <sub>
+          <b>Quele Andrade</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/PauloCatena">
+        <img src="https://avatars.githubusercontent.com/u/89106608?v=4" width="100px;" alt="Foto do membro Paulo"/><br>
+        <sub>
+          <b>Gustavo Ribeiro</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
