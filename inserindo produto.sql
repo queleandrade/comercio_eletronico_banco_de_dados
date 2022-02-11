@@ -8,9 +8,7 @@ INSERT INTO produto VALUES
     (null, 'Vídeo Game Portátil', 'Vídeo Game Portátil Luatek 10.000 Jogos', 155.99, 100, "", 1),
     (null, 'Mesa De Air Game ', 'Mesa De Air Game - Aero Hockey - H03', 1590, 1, "", 1),
     (null, 'FIFA 22 - PS4', 'FIFA 22 - PS4', 224.91, 0, "", 1),
-    (null, 'Videogame Playstation 3', 'Videogame Playstation 3 Super Slim', 1357.99, 45, "", 1);
-
-INSERT INTO produto VALUES
+    (null, 'Videogame Playstation 3', 'Videogame Playstation 3 Super Slim', 1357.99, 45, "", 1),
 	(null, 'folklore', 'Taylor Swift (Artista)', 59.90, 13, "/imagens", 3),
     (null, 'WOMEN IN MUSIC PT. III', 'HAIM (Artista)', 49.90, 10, "/imagens", 3),
     (null, 'Chromatica', 'Lady Gaga (Artista) ', 39, 19, "/imagens", 3),
